@@ -1,0 +1,7 @@
+{
+  "name": "ArtSphere - Premier Art Marketplace",
+  "description": "A sophisticated online marketplace for artists to showcase and sell paintings, sculptures, and indoor art with AI-enhanced descriptions and secure payment simulations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
